@@ -2,7 +2,7 @@
   "private": true,
   "name": "portfolio",
   "version": "1.2.0",
-  "homepage": "https://github.com/PaPond/PortFolio.git",
+  "homepage": "https://PaPond.github.io/PortFolio/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
