@@ -2,11 +2,11 @@
   "private": true,
   "name": "portfolio",
   "version": "1.2.0",
-  "homepage": "https://github.com/PaPond/PortFolio.git",
+  "homepage": "https://sarutmalamoonsree.netlify.app/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b main -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
