@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "PortFolio",
+  "name": "portfolio",
   "version": "1.2.0",
   "homepage": "https://github.com/PaPond/PortFolio.git",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
